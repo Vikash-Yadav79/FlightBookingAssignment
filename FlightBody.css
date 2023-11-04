@@ -1,0 +1,28 @@
+/* FlightBody.css */
+.flight-body {
+    background-color: #87CEEB; /* Sky Blue */
+    color: #333;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 50px;
+  }
+  
+  .flight-image img {
+    max-width: 30%;
+    height: auto;
+  }
+  
+  .flight-description {
+    text-align: center;
+  }
+  
+  .flight-description h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .flight-description p {
+    font-size: 18px;
+  }
+  
